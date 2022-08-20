@@ -1,0 +1,1 @@
+1. JSON REQ como undefined. En caso de que a alguien le pase es posible que tengan el app.use(router) adelante del app.use(bodyparser.json()). El enrutador debe de ir al final de todo
